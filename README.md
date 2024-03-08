@@ -7,7 +7,7 @@
 5. npm start 
 
 ### Glimpses of project:
-<img src="./src/assets/one.png" />
+<img src="./imagess/Screenshot (100).png" />
 <br>
 <br>
 <img src="./src/assets/two.png" />
