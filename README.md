@@ -9,8 +9,12 @@
 5. npm start
 
 ### Glimpses of project:
+<<<<<<< HEAD
 
 <img src="./Imagess/Screenshot (66).png" />
+=======
+<img src="./imagess/Screenshot (100).png" />
+>>>>>>> 6300341f9b8e21f0c4920992ed08af7574224a92
 <br>
 <br>
 <img src="./Imagess/Screenshot (67).png" />
